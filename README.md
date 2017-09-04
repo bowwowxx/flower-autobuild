@@ -1,2 +1,2 @@
 # flower-autobuild
-for python celery use
+Use Celery with Redis to Queue Tasks (for python)
